@@ -1,0 +1,1 @@
+Download the dataset from [here](https://sarvamblog.blogspot.com/2014/08/supervised-classification-with-k-fold.html)
